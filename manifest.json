@@ -3,7 +3,7 @@
 
   "name": "Explain xkcd Linker",
   "description": "This extension adds to an xkcd comic page a link to the related explain xkcd page",
-  "version": "1.0",
+  "version": "1.2",
 
   "browser_action": {
     "name": "Explain xkcd Linker",
